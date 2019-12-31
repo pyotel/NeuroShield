@@ -64,8 +64,7 @@ Fr more information on how to use the NeuroMem Console, click the Help button or
 ## Other interface
 
 NeuroShield can be interfaced to any device supporting an SPI interface and supporting the protocol
-described in https://www.general-
-vision.com/documentation/TM_NeuroMem_Smart_protocol.pdf.
+described in https://www.general-vision.com/documentation/TM_NeuroMem_Smart_protocol.pdf.
 
 Source code of the primitive SPI Read and Write commands can be found in:
 - Arduino\Libraries\Src\NeuroMemSPI.cpp
